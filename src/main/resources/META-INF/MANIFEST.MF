@@ -1,0 +1,1 @@
+Main-Class: agh.agh.wiggos.Ingest
